@@ -1,0 +1,2 @@
+# Project-scoped Codex settings
+project_doc_fallback_filenames = ["AGENTS.override.md", "AGENTS.md", "codex_rules.md", "CLAUDE.md"]
